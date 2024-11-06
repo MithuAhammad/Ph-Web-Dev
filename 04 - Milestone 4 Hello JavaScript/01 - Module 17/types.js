@@ -1,5 +1,5 @@
-var firstName = "Raiyan";
-var lastName = "Jiyon";
+var firstName = "Mithu";
+var lastName = "Ahammad";
 console.log(firstName +" "+ lastName);
 
 console.log(typeof firstName);
